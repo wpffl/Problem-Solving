@@ -27,7 +27,7 @@ public class Solution {
 			
 			// 덤프 횟수만큼 덤프 수행
 			for (int i = 0; i < cnt; i++) {
-    // 높이가 최소 차이가 됐을 때 break
+    				// 높이가 최소 차이가 됐을 때 break
 				if(boxH[MAX-1] - boxH[MIN] == 1) {
 					break;
 				}
