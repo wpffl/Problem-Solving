@@ -6,4 +6,4 @@ Baekjoon (1244) 스위치 켜고 끄기
 SWEA Lv.3 (1208) Flatten<br>
 SWEA Lv.2 (1954) - 달팽이 숫자<br>
 ## [2021.02.03]
-SWEA Lv.3 (1873) - 상호의 배틀필드<
+SWEA Lv.3 (1873) - 상호의 배틀필드<br>
