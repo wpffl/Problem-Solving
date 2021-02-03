@@ -18,7 +18,7 @@ public class Solution {
 					arr[i][j] = Character.getNumericValue(s.charAt(j));
 				}
 			}
-      // 마름모 모양으로 농작물 수확
+      			// 마름모 모양으로 농작물 수확
 			for (int i = 0; i < N; i++) {
 				for (int j = Math.abs(N / 2 - i); j < N - Math.abs(N / 2 - i); j++) {
 					res += arr[i][j];
