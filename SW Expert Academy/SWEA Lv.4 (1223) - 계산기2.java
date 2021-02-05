@@ -43,7 +43,6 @@ public class Solution {
                 postfix += stack.pop();
             }
              
-            //System.out.println("###" + postfix);
             // 후위 표기법으로 변환한 수식으로 연산 수행
             Stack<Integer> stack2 = new Stack<>();
             for (int i = 0; i < postfix.length(); i++) {
