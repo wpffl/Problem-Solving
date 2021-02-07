@@ -1,10 +1,8 @@
-import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class Solution {
 	public static void main(String[] args) throws FileNotFoundException {
-		System.setIn(new FileInputStream("res/D4_1210.txt"));
 		Scanner sc = new Scanner(System.in);
 
 		for (int t = 1; t <= 10; t++) {
