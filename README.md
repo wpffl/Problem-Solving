@@ -1,7 +1,7 @@
 # Problem-Solving<br>
 ## [2021.02.01]
 * SWEA Lv.3 (1289) 원재의 메모리 복구하기<br>
-* Baekjoon (1244) 스위치 켜고 끄기
+* Baekjoon (1244) 스위치 켜고 끄기<br>
 ## [2021.02.02]
 * SWEA Lv.2 (1954) - 달팽이 숫자<br>
 * SWEA Lv.3 (1208) Flatten<br>
@@ -20,4 +20,7 @@
 * SWEA Lv.4 (1223) 계산기2 <br>
 * Baekjoon (2309) 일곱 난쟁이 <br>
 * Baekjoon (2231) 분해합 <br>
-## [2021.02.06]
+## [2021.02.07]
+* SWEA Lv.4 (1210) Ladder1 <br>
+* Baekjoon (17478) 재귀 함수가 뭔가요?<br>
+* Baekjoon (2798) 블랙잭<br>
