@@ -29,3 +29,4 @@
 * SWEA Lv.3 (5215) 햄버거 다이어트 <br>
 * SWEA Lv.3 (9229) 한빈이와 Spot Mart <br>
 * Baekjoon (20299) 3대 측정<br>
+* Baekjoon (2164) 카드2<br>
