@@ -16,11 +16,10 @@ public class Main {
 			deq.add(i);
 		}
 		
-		while(N > 1) {
+		while(deq.size() > 1) {
 			deq.pollFirst();
 			int tmp = deq.pollFirst();
 			deq.add(tmp);
-			N--;
 		}
 		
 		System.out.println(deq.poll());		
