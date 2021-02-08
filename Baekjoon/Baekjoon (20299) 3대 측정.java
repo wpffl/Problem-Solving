@@ -20,8 +20,8 @@ public class Main {
 			int b = Integer.parseInt(st.nextToken()); 
 			int c = Integer.parseInt(st.nextToken());
 
-			if (st1 >= M && st2 >= M && st3 >= M) { 
-				if (st1 + st2 + st3 >= S) { 
+			if (a >= M && b >= M && c >= M) { 
+				if (a + b + c >= S) { 
 					res++; 
 					sb.append(a + " " + b + " " + c + " "); 
 				}
