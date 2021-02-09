@@ -34,3 +34,4 @@
 * Baekjoon (1158) 요세푸스 문제<br>
 * Baekjoon (2563) 색종이<br>
 * Baekjoon (17827) 달팽이 리스트<br>
+* SWEA Lv.4 (1233) 사칙연산 유효성 검사 <br>
