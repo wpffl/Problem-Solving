@@ -28,8 +28,8 @@ public class Main {
 			}
 		}
 		
-		int cnt = Math.min(N, M)/2;
-		for (int i = 0; i < R; i++) {
+		int cnt = Math.min(N, M)/2; // 1회전 시 돌려야하는 사각형 갯수
+		for (int i = 0; i < R; i++) { // 회전 수 만큼 반복 호출
 			rotation(cnt);
 		}
 		
@@ -44,6 +44,7 @@ public class Main {
 		System.out.println(sb.toString());
 		
 	}
+	// 반시계 방향으로 배열 회전 하는 함수
 	public static void rotation(int cnt) {
 		for (int i = 0; i < cnt; i++) {
 			int dir = 0; // 방향 변수
@@ -55,12 +56,12 @@ public class Main {
 				int nx = x + dx[dir];
 				int ny = y + dy[dir];
 				
-				if(nx >= i && nx < N-i && ny >= i && ny < M-i) {
+				if(nx >= i && nx < N-i && ny >= i && ny < M-i) { // 범위 체크
 					arr[x][y] = arr[nx][ny];
 					
 					x = nx;
 					y = ny;
-				} else {
+				} else { // 범위 벗어나면 방향 바꿔주기
 					dir++;
 				}
 			}
