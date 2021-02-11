@@ -42,3 +42,4 @@
 * Baekjoon (16926) 배열 돌리기 1<br>
 ## [2021.02.11]
 * Programmers Lv.1 크레인 인형뽑기 게임 <br>
+* Programmers Lv.2 올바른 괄호 <br>
