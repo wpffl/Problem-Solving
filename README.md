@@ -49,3 +49,4 @@
 ## [2021.02.13]
 * Programmers Lv.2 소수 만들기 <br>
 * Programmers Lv.2 N개의 최소공배수 <br>
+* Baekjoon (2504) 괄호의 값<br>
