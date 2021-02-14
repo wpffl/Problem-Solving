@@ -46,3 +46,6 @@
 ## [2021.02.12]
 * Programmers Lv.2 큰 수 만들기 <br>
 * Programmers Lv.3 멀리 뛰기 <br>
+## [2021.02.13]
+* Programmers Lv.2 소수 만들기 <br>
+* Programmers Lv.2 N개의  <br>
