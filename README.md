@@ -59,3 +59,6 @@
 ## [2021.02.16]
 * Baekjoon (4256) 트리<br>
 * Baekjoon (2839) 설탕 배달<br>
+## [2021.02.17]
+* Baekjoon (1406) 에디터<br>
+* Baekjoon (1662) 압축<br>
