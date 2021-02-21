@@ -68,4 +68,5 @@
 ## [2021.02.19]
 * SWEA Lv.4 (3234) 준환이의 양팔저울 <br>
 ## [2021.02.21]
+* Programmers Lv.1 완주하지 못한 선수 <br>
 * Programmers Lv.2 가장 큰 수 <br>
