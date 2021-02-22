@@ -73,3 +73,4 @@
 * Programmers Lv.2 가장 큰 수 <br>
 ## [2021.02.22]
 * Baekjoon (5525) IOIOI<br>
+* Baekjoon (11478) 서로 다른 부분 문자열의 개수<br>
