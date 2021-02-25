@@ -84,5 +84,6 @@
 * SWEA 모의역량테스트 (1767) 프로세서 연결하기 <br>
 ## [2021.02.26]
 * SWEA Lv.3 (1234) 비밀번호 <br>
+* SWEA Lv.3 (1209) Sum <br>
 * Baekjoon (8958) OX퀴즈<br>
 * Baekjoon (2573) 빙산<br>
