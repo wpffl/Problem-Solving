@@ -91,3 +91,4 @@
 * SWEA Lv.3 (1220) Magnetic
 ## [2021.02.28]
 * Baekjoon (2567) 색종이<br>
+* Baekjoon (2447) 별 찍기 - 10<br>
