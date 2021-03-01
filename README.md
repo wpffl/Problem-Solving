@@ -93,3 +93,7 @@
 * Baekjoon (2567) 색종이<br>
 * Baekjoon (2447) 별 찍기 - 10<br>
 ## [2021.03.01]
+* Programmers Lv.1 두 개 뽑아서 더하기 <br>
+* Programmers Lv.1 K번째 수 <br>
+* Programmers Lv.1 같은 숫자는 싫어 <br>
+* Programmers Lv.1 나누어 떨어지는 숫자 배열 <br>
