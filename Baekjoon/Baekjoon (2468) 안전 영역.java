@@ -68,11 +68,11 @@ public class Main {
 			int nx = x + dx[d];
 			int ny = y + dy[d];
 			
-      // 범위 체크
+      			// 범위 체크
 			if(nx < 0 || nx >= N || ny < 0 || ny >= N)
 				continue;
 			
-      // 방문체크 & 침수 여부 체크
+      			// 방문체크 & 침수 여부 체크
 			if(visited[nx][ny] || map[nx][ny] <= rain)
 				continue;
 			
