@@ -123,3 +123,7 @@
 * Programmers Lv.1 문자열 내 p와 y의 개수 <br>
 * Programmers Lv.1 문자열 내림차순으로 배치하기 <br>
 * Programmers Lv.1 문자열 다루기 기본 <br>
+## [2021.03.15]
+* Programmers Lv.1 서울에서 김서방 찾기 <br>
+* Programmers Lv.1 수박수박수박수박수박수? <br>
+* Programmers Lv.1 소수 찾기 <br>
