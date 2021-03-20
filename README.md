@@ -90,7 +90,7 @@
 ## [2021.02.27]
 * SWEA Lv.3 (1220) Magnetic
 ## [2021.02.28]
-* Baekjoon (2567) 색종이<br>
+* Baekjoon (2567) 색종이 - 2<br>
 * Baekjoon (2447) 별 찍기 - 10<br>
 ## [2021.03.01]
 * Programmers Lv.1 두 개 뽑아서 더하기 <br>
