@@ -66,7 +66,7 @@ public class Main {
 				bw.write(String.valueOf(distance[i]));
 			
 			bw.newLine();
-		}
+		} 
 		
 		br.close();
 		bw.close();
