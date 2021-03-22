@@ -129,7 +129,7 @@ public class Main {
 				break;
 			}
 
-      // 9번 선수 까지 다 돌았으면 1번 선수로 초기화
+      			// 9번 선수 까지 다 돌았으면 1번 선수로 초기화
 			if (++startIdx == 9) {
 				startIdx = 0;
 			}
