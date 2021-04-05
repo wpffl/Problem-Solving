@@ -40,7 +40,7 @@ public class Main {
 		int cnt = 0; // 내구도가 0인 칸 카운트하는 변수
 		
 		// 로봇 옮기는 과정 시작
-    // 4. 내구도가 0인 칸이 K개일 경우 종료
+    		// 4. 내구도가 0인 칸이 K개일 경우 종료
 		while(cnt < K) {
 			// 단계 카운트
 			++res;
@@ -56,7 +56,7 @@ public class Main {
 			
 			// 2. 로봇 움직이기
 			for (int i = N - 2; i >= 0; i--) {
-        // 현재 위치에 로봇이 존재하면서
+        			// 현재 위치에 로봇이 존재하면서
 				if(upList.get(i).isRobot) {
 					// 다음 칸의 내구도가 0보다 크고, 다음 칸에 로봇이 없는 경우 이동
 					if(upList.get(i + 1).value > 0 && !upList.get(i + 1).isRobot) {
