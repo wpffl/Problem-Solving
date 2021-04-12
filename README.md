@@ -186,4 +186,5 @@
 ## [2021.04.11]
 * Baekjoon (9177) 단어 섞기 <br>
 ## [2021.04.12]
-* SWEA Lv.4 (1251) 하나로 <br>
+* SWEA Lv.4 (1251) 하나로_Queue <br>
+* SWEA Lv.4 (1251) 하나로_PriorityQueue <br>
