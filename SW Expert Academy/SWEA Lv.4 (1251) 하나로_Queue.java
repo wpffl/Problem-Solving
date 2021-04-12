@@ -9,6 +9,8 @@ import java.util.StringTokenizer;
 // 최소 신장 트리(MST)
 // 1. Prim 알고리즘 (정점 중심) - 인접 행렬, 인접 리스트
 // 2. Kruskal 알고리즘 (간선 중심) - 간선 리스트
+
+// O(V^2)
 public class Solution {
 	static int N;
 	static long[][] map;
@@ -92,7 +94,7 @@ public class Solution {
 				}
 			}
 		}
-    
+		
 		return result;
 	}
 }
