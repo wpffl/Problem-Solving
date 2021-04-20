@@ -204,3 +204,6 @@
 * SWEA Lv.4 (1249) 보급로 <br>
 * SWEA Lv.4 (1249) 보급로_PriorityQueue <br>
 * SWEA Lv.4 (1249) 보급로_BFS <br>
+## [2021.04.19]
+* SWEA 모의역량테스트 (1953) 탈주범 검거_BFS <br>
+* SWEA 모의역량테스트 (1953) 탈주범 검거_DFS <br>
