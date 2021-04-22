@@ -9,7 +9,7 @@ public class Main {
 	static int N, M;
 	static int[][] adj;
 	static int gtCnt, ltCnt; // 나보다 키가 큰 학생 수, 나보다 키가 작은 학생 수
-
+ 
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st = new StringTokenizer(br.readLine(), " ");
