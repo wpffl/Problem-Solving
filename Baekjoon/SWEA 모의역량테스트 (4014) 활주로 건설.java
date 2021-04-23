@@ -1,0 +1,128 @@
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
+import java.util.StringTokenizer;
+
+public class Solution {
+	static int N, X;
+	static int[][] map;
+
+	public static void main(String[] args) throws NumberFormatException, IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+
+		int T = Integer.parseInt(br.readLine());
+		for (int t = 1; t <= T; t++) {
+			StringTokenizer st = new StringTokenizer(br.readLine(), " ");
+			N = Integer.parseInt(st.nextToken()); // map의 크기
+			X = Integer.parseInt(st.nextToken()); // 경사로의 길이(높이는 1로 고정)
+			map = new int[N][N];
+
+			for (int i = 0; i < N; i++) {
+				st = new StringTokenizer(br.readLine(), " ");
+				for (int j = 0; j < N; j++) {
+					map[i][j] = Integer.parseInt(st.nextToken());
+				}
+			}
+
+			bw.write("#" + t + " " + process());
+			bw.newLine();
+		}
+		bw.flush();
+	}
+
+	/* 활주로 건설 가능한 개수를 세는 함수 */
+	private static int process() {
+		int count = 0; // 활주로 건설 가능한 개수 카운트
+		for (int i = 0; i < N; i++) {
+			if (makeRoadByRow(i))
+				++count;
+			if (makeRoadByCol(i))
+				++count;
+		}
+		return count;
+	}
+
+	/* 행 고정, 열 탐색해서 활주로 건설 가능한지 확인하는 함수 */
+	private static boolean makeRoadByRow(int i) {
+		int beforeHeight = map[i][0]; // 이전 높이
+		int size = 0; // 연속된 동일 높이의 개수
+		int j = 0; // 탐색 열 위치
+
+		while (j < N) {
+			if (beforeHeight == map[i][j]) { // 이전 높이와 현재 열 높이가 같으면 사이즈 증가, j 증가
+				++size;
+				++j;
+			} else if (beforeHeight + 1 == map[i][j]) { // 오르막 경사로 설치 가능한지 판단
+				if (size < X) // 경사로의 길이가 X보다 작은 경우
+					return false; // 경사로 설치 불가
+				// 그 외의 경우 (설치 가능)
+				beforeHeight++;
+				size = 1;
+				++j;
+			} else if (beforeHeight - 1 == map[i][j]) { // 내리막 경사로 설치 가능한지 판단
+				int count = 0;
+				for (int k = j; k < N; k++) { // 다음 나오는 경사로의 길이가 X만큼 똑같은지 확인
+					if (map[i][k] != beforeHeight - 1)
+						break;
+					if (++count == X)
+						break;
+				}
+
+				if (count < X) // 경사로의 길이가 X보다 작은 경우
+					return false; // 경사로 설치 불가
+
+				// 경사로 설치가 가능한 경우
+				beforeHeight--;
+				size = 0;
+				j += X;
+			} else {
+				return false;
+			}
+		}
+		return true;
+	}
+
+	/* 열 고정, 행 탐색해서 활주로 건설 가능한지 확인하는 함수 */
+	private static boolean makeRoadByCol(int j) {
+		int beforeHeight = map[0][j]; // 이전 높이
+		int size = 0; // 연속된 동일 높이의 개수
+		int i = 0; // 탐색 행 위치
+
+		while (i < N) {
+			if (beforeHeight == map[i][j]) { // 이전 높이와 현재 행 높이가 같으면 사이즈 증가, j 증가
+				++size;
+				++i;
+			} else if (beforeHeight + 1 == map[i][j]) { // 오르막 경사로 설치 가능한지 판단
+				if (size < X) // 경사로의 길이가 X보다 작은 경우
+					return false; // 경사로 설치 불가
+				// 그 외의 경우 (설치 가능)
+				beforeHeight++;
+				size = 1;
+				++i;
+			} else if (beforeHeight - 1 == map[i][j]) { // 내리막 경사로 설치 가능한지 판단
+				int count = 0;
+				
+				for (int k = i; k < N; k++) { // 다음 나오는 경사로의 길이가 X만큼 똑같은지 확인
+					if (map[k][j] != beforeHeight - 1)
+						break;
+					if (++count == X)
+						break;
+				}
+
+				if (count < X) // 경사로의 길이가 X보다 작은 경우
+					return false; // 경사로 설치 불가
+
+				// 경사로 설치가 가능한 경우
+				beforeHeight--;
+				size = 0;
+				i += X;
+			} else {
+				return false;
+			}
+		}
+		return true;
+	}
+}
