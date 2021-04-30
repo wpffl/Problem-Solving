@@ -5,6 +5,8 @@ import java.util.Collections;
 import java.util.LinkedList;
 import java.util.StringTokenizer;
 
+/* 크루스칼 알고리즘(간선 중심) */
+// 희소 그래프(간선이 적은 경우)의 경우 크루스칼이 
 public class Main {
 	static int N, M;
 	static LinkedList<Node> list;
