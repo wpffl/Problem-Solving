@@ -5,6 +5,8 @@ import java.util.LinkedList;
 import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
+/* 프림 알고리즘(정점 중심) */
+// 밀집 그래프(간선이 많은 경우)의 경우 프림이 유리 
 public class Main {
 	static int N, M;
 	static LinkedList<Node>[] adjlist;
