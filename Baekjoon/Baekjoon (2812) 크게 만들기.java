@@ -17,7 +17,7 @@ public class Main {
 		int cnt = N - K; // 지운 최종 자리 수(출력할 자리 수)
 		char[] num = br.readLine().toCharArray(); // 수
 
-		Stack<Character> stack = new Stack();
+		Stack<Character> stack = new Stack<>();
 		for (int i = 0; i < N; i++) {
 			// stack의 마지막 수보다 현재 수가 더 크다면 현재 수보다 작은 수 모두 지우기
 			while (K > 0 && !stack.isEmpty() && stack.peek() < num[i]) { 
