@@ -271,3 +271,5 @@
 * Baekjoon (2056) 작업_DP <br>
 ## [2021.05.17]
 * Programmers Lv.2 스킬트리 <br>
+## [2021.05.18]
+* Programmers Lv.2 최솟값 만들기 <br>
