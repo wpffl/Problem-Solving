@@ -279,3 +279,5 @@
 * Programmers Lv.2 최댓값과 최솟값 <br>
  ## [2021.05.21]
 * Programmers Lv.1 2016년 <br>
+ ## [2021.05.22]
+* Programmers Lv.1 가운데 글자 가져오기 <br>
