@@ -286,4 +286,4 @@
 ## [2021.05.27]
 * Baekjoon (1026) 보물 <br>
 ## [2021.05.28]
-* Programmers Lv.1 소수 만들기 <br>
+* Programmers Lv.1 내적 <br>
