@@ -291,3 +291,5 @@
 * Programmers Lv.1 문자열을 정수로 바꾸기 <br>
 ## [2021.05.30]
 * Programmers Lv.1 시저 암호 <br>
+## [2021.05.31]
+* Programmers Lv.1 이상한 문자 만들기 <br>
