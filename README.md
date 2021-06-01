@@ -295,3 +295,5 @@
 * Programmers Lv.1 이상한 문자 만들기 <br>
 ## [2021.06.01]
 * Programmers Lv.1 약수의 합 <br>
+## [2021.06.02]
+* Programmers Lv.1 자릿수 더하기 <br>
