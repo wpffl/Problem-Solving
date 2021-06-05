@@ -301,3 +301,5 @@
 * Programmers Lv.1 정수 내림차순으로 배치하기 <br>
 ## [2021.06.04]
 * Programmers Lv.1 핸드폰 번호 가리기 <br>
+## [2021.06.05]
+* Programmers Lv.1 제일 작은 수 제거하기 <br>
