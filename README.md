@@ -303,3 +303,5 @@
 * Programmers Lv.1 핸드폰 번호 가리기 <br>
 ## [2021.06.05]
 * Programmers Lv.1 제일 작은 수 제거하기 <br>
+## [2021.06.06]
+* Programmers Lv.1 직사각형 별찍기 <br>
