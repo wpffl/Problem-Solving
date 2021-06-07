@@ -305,3 +305,5 @@
 * Programmers Lv.1 제일 작은 수 제거하기 <br>
 ## [2021.06.06]
 * Programmers Lv.1 직사각형 별찍기 <br>
+## [2021.06.07]
+* Programmers Lv.1 x만큼 간격이 있는 n개의 숫자 <br>
