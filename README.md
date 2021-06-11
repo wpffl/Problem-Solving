@@ -311,3 +311,5 @@
 * Programmers Lv.1 하샤드 수 <br>
 ## [2021.06.09]
 * Programmers Lv.1 행렬의 덧셈 <br>
+## [2021.06.11]
+* Programmers Lv.1 평균 구하기 <br>
