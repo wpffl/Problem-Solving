@@ -323,3 +323,5 @@
 * Programmers Lv.1 최대공약수와 최소공배수 <br>
 ## [2021.06.16]
 * Programmers Lv.1 콜라츠 추측 <br>
+## [2021.06.18]
+* Baekjoon (2866) 문자열 잘라내기 <br>
