@@ -387,3 +387,5 @@
 * Baekjoon (2617) 구슬 <br>
 ## [2021.07.17]
 * Programmers Lv.1 숫자 문자열과 영단어 <br>
+## [2021.07.18]
+* Programmers Lv.2 거리두기 확인하기 <br>
