@@ -48,7 +48,7 @@
 * Programmers Lv.3 멀리 뛰기 <br>
 ## [2021.02.14]
 * Programmers Lv.2 소수 만들기 <br>
-* Programmers Lv.2 N개의 최소공배수 <br>
+* Programmers Lv.2 N개의 최소공배수 <br> 
 * Baekjoon (2504) 괄호의 값<br>
 ## [2021.02.15]
 * SWEA Lv.3 (6808) 규영이와 인영이의 카드게임 <br>
