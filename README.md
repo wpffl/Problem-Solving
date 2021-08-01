@@ -1,4 +1,4 @@
-# Problem-Solving<br>
+# Problem-Solving<br> 
 ## [2021.02.01]
 * SWEA Lv.3 (1289) 원재의 메모리 복구하기<br>
 * Baekjoon (1244) 스위치 켜고 끄기<br>
@@ -389,7 +389,7 @@
 * Programmers Lv.1 숫자 문자열과 영단어 <br>
 ## [2021.07.18]
 * Programmers Lv.2 거리두기 확인하기 <br>
-## [2021.07.19]
+## [2021.07.19] 
 * Baekjoon (6443) 애너그램 <br>
 ## [2021.07.20]
 * Baekjoon (1920) 수 찾기 <br>
