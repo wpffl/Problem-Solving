@@ -25,7 +25,7 @@
 * Baekjoon (17478) 재귀 함수가 뭔가요?<br>
 * Baekjoon (2798) 블랙잭<br>
 ## [2021.02.08]
-* SWEA Lv.2 (1940) 가랏! RC카! <br>
+* SWEA Lv.2 (1940) 가랏! RC카! <br> 
 * SWEA Lv.3 (5215) 햄버거 다이어트 <br>
 * SWEA Lv.3 (9229) 한빈이와 Spot Mart <br>
 * Baekjoon (20299) 3대 측정<br>
