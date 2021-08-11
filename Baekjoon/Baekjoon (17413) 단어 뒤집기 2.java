@@ -13,7 +13,7 @@ public class Main {
 		StringBuilder sb = new StringBuilder();
 
 		String s = br.readLine();
-        int len = s.length();
+        	int len = s.length();
 		boolean isTag = false;
 
 		for (int i = 0; i < len; i++) {
