@@ -12,7 +12,7 @@
 ## [2021.02.04]
 * SWEA Lv3. (1225) 암호 생성기<br>
 * SWEA Lv4. (1218) 괄호 짝짓기<br> 
-* Baekjoon (2493) 탑<br>
+* Baekjoon (2493) 탑<br> 
 * SWEA Lv.4 (5432) 쇠막대기 자르기 <br>
 ## [2021.02.05]
 * SWEA Lv.3 (3499) 퍼펙트 셔플 <br>
@@ -42,7 +42,7 @@
 * Baekjoon (16926) 배열 돌리기 1<br>
 ## [2021.02.11]
 * Programmers Lv.1 크레인 인형뽑기 게임 <br>
-* Programmers Lv.2 올바른 괄호 <br>
+* Programmers Lv.2 올바른 괄호 <br> 
 ## [2021.02.13]
 * Programmers Lv.2 큰 수 만들기 <br>
 * Programmers Lv.3 멀리 뛰기 <br>
@@ -84,7 +84,7 @@
 * SWEA 모의역량테스트 (1767) 프로세서 연결하기 <br>
 ## [2021.02.26]
 * SWEA Lv.3 (1234) 비밀번호 <br>
-* SWEA Lv.3 (1209) Sum <br>
+* SWEA Lv.3 (1209) Sum <br> 
 * Baekjoon (8958) OX퀴즈<br> 
 * Baekjoon (2573) 빙산<br>
 ## [2021.02.27]
