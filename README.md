@@ -22,7 +22,7 @@
 * Baekjoon (2231) 분해합 <br>
 ## [2021.02.07]
 * SWEA Lv.4 (1210) Ladder1 <br> 
-* Baekjoon (17478) 재귀 함수가 뭔가요?<br>
+* Baekjoon (17478) 재귀 함수가 뭔가요?<br> 
 * Baekjoon (2798) 블랙잭<br>
 ## [2021.02.08]
 * SWEA Lv.2 (1940) 가랏! RC카! <br>  
