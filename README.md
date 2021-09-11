@@ -35,7 +35,7 @@
 * Baekjoon (2563) 색종이<br> 
 * Baekjoon (17827) 달팽이 리스트<br>
 * Baekjoon (15900) 나무 탈출<br> 
-* SWEA Lv.2 (1974) 스도쿠 검증<br>
+* SWEA Lv.2 (1974) 스도쿠 검증<br> 
 * SWEA Lv.4 (1233) 사칙연산 유효성 검사 <br> 
 ## [2021.02.10]
 * Baekjoon (20364) 부동산 다툼<br>
