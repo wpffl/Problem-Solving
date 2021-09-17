@@ -44,7 +44,7 @@
 * Programmers Lv.1 크레인 인형뽑기 게임 <br> 
 * Programmers Lv.2 올바른 괄호 <br> 
 ## [2021.02.13]
-* Programmers Lv.2 큰 수 만들기 <br>
+* Programmers Lv.2 큰 수 만들기 <br> 
 * Programmers Lv.3 멀리 뛰기 <br>
 ## [2021.02.14]
 * Programmers Lv.2 소수 만들기 <br>
