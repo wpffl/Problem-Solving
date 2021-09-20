@@ -15,7 +15,7 @@
 * Baekjoon (2493) 탑<br> 
 * SWEA Lv.4 (5432) 쇠막대기 자르기 <br> 
 ## [2021.02.05]
-* SWEA Lv.3 (3499) 퍼펙트 셔플 <br>
+* SWEA Lv.3 (3499) 퍼펙트 셔플 <br> 
 * SWEA Lv.4 (1861) 정사각형 방 <br> 
 * SWEA Lv.4 (1223) 계산기2 <br>  
 * Baekjoon (2309) 일곱 난쟁이 <br>
