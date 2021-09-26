@@ -31,7 +31,7 @@
 * Baekjoon (20299) 3대 측정<br>
 * Baekjoon (2164) 카드2<br>
 ## [2021.02.09]
-* Baekjoon (1158) 요세푸스 문제<br>
+* Baekjoon (1158) 요세푸스 문제<br> 
 * Baekjoon (2563) 색종이<br> 
 * Baekjoon (17827) 달팽이 리스트<br> 
 * Baekjoon (15900) 나무 탈출<br> 
